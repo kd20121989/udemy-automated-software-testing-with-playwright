@@ -1,0 +1,29 @@
+# Ignore Playwright browser downloads
+downloads/
+
+# Ignore Playwright browsers.json configuration file
+browsers.json
+
+# Ignore Playwright device descriptors
+devices/
+
+# Ignore Playwright trace files
+trace/
+
+# Ignore Node.js modules
+node_modules/
+
+# Ignore generated Playwright test files
+*.test.ts
+*.test.js
+
+# Ignore Playwright screenshots and videos
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.mp4
+
+# Ignore Playwright report files
+report/
